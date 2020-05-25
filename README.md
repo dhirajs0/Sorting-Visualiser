@@ -20,19 +20,19 @@
 ## Built With:
 * Python 3.7.7
 * Tkinter 8.6
-
-<!-- ## Screenshots: -->
-<!-- <p align="center"><img height="500" src="img/ss1.png"></p>
+<!-- 
+## Screenshots: 
+<p align="center"><img height="500" src="img/ss1.png"></p>
 <p align="center"><img height="500" src="img/ss2.png"></p>
 <p align="center"><img height="500" src="img/ss3.png"></p> -->
 
-<!-- 
+
 ## Run It (Python >= 3.5):
 - Clone the repository
 ```bash
-$ git clone https://github.com/FahadulShadhin/Sorting-Algorithms-Visualizer.git
+$ git clone https://github.com/dhirajs0/Sorting-Visualiser.git
 ```
 - Run ```main.py``` from root
 ```bash
 $ python3 main.py 
-``` -->
+```
